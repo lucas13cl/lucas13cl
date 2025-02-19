@@ -1,9 +1,9 @@
 ##Oii! Eu sou Lucas Cabral
 
 - 🔭 
-- 🌱 Estudando Docker
-- 📫 Contate-me no Email: lucas13cl@hotmail.com
-- 😄 Pronouns: Ele/Dele
+- 🌱 Estudando React : Java
+- 📫 Contate-me no Email: lucas13cl@outlook.com
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas13cl&show_icons=true&theme=highcontrast)

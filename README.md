@@ -1,7 +1,7 @@
 ##Oii! Eu sou Lucas Cabral
 
 - 🔭 
-- 🌱 Estudando React : Java
+- 🌱 Estudando: JavaScript | React | TypeScript 
 - 📫 Contate-me no Email: lucas13cl@outlook.com
 
 
